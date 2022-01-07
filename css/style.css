@@ -340,7 +340,7 @@ ul {
     padding: 20px;
 }
 
-:target {
+.window:target {
     display: flex;
 }
 /* modal end */
